@@ -1,0 +1,23 @@
+.footer{
+    max-width: 1024px;
+    width: 100%;
+   
+}
+
+.footerContainer{
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+    cursor: pointer;
+}
+ul{
+    list-style: none;
+    text-decoration: none;
+}
+li{
+    margin-bottom: 10px;
+
+}
+.footerText{
+    margin-top: 50px;
+}

@@ -1,0 +1,26 @@
+.mail{
+    margin: 40px;
+    background-color: var(--primaryColor);
+    padding: 80px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    color: white;
+}
+.mail>h1{
+    margin-bottom: 20px;
+    font-size: 35px;
+}
+.mail>p{
+    font-size: 18px;
+    margin: 0 0 10px 10px;
+}
+
+.mailContainer>input{
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-right: 25px;
+}

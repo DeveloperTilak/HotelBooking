@@ -1,0 +1,18 @@
+.propertyItem {
+  flex: 1 1;
+  border-radius: 10px;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.propertyImg {
+  width: 100%;
+  height: 150px;
+}
+.pTitle1 {
+  font-size: 18px;
+}
+.pTitle2 {
+  font-size: 14px;
+  font-weight: 300;
+}

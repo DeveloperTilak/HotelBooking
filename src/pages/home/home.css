@@ -1,0 +1,34 @@
+.featured{
+    gap: 20px;
+    display: flex;
+    justify-content: space-between;
+    max-width: 1024px;
+    width: 100%;
+
+}
+.homeContainer{
+    display: flex;
+    margin-top: 50px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.homeTitle{
+    margin: 50px;
+}
+
+.propertyList{
+    display: flex;
+    width: 100%;
+    max-width: 1024px;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.fp{
+    display: flex;
+    width: 100%;
+    max-width: 1024px;
+    justify-content: space-between;
+    gap: 20px;
+}

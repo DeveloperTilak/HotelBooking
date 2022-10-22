@@ -1,0 +1,16 @@
+ /*This is Global style.  */
+ 
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+ 
+
+:root{
+    --primaryColor:#003580;
+    --btnColor: #0071c2;
+    --textColor: white;
+
+ }
